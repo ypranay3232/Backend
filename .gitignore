@@ -1,0 +1,19 @@
+# IDE Config (Keeps recommended extensions visible)
+.vscode/
+!.vscode/extensions.json
+*.code-workspace
+
+# Logs and Caches
+*.log
+logs/
+*.cache
+.pytest_cache/
+.eslintcache
+.npm/
+
+node_modules/
+.venv/
+venv/
+env/
+bin/
+obj/
